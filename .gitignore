@@ -11,3 +11,4 @@ Cargo.lock
 **/*.rs.bk
 
 docs/N. Matsakis and A. Turon, Rust (in Jap.).pdf
+logs/
